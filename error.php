@@ -1,4 +1,4 @@
-/* Decoded by unphp.net */
+/* Recode By Akira */
 
 session_start();
 error_reporting(0);

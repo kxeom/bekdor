@@ -1,2 +1,3 @@
 <?php
-header(“location: /sanvaneco/”);
+header("Location: https://ggandtheweb.com/sanvaneco/");
+?>
